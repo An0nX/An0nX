@@ -22,6 +22,12 @@ I am a passionate Backend Developer <img src="https://media.giphy.com/media/WUlp
 ### 🔥 &nbsp;My Stats :
 
 <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=An0nX&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&show_icons=true&cache_seconds=21600" alt="GitHub Stats">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=An0nX&theme=dark&mode=weekly" alt="GitHub Streak">
   </a>
