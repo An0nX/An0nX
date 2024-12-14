@@ -70,9 +70,3 @@ I am a passionate Backend Developer <img src="https://media.giphy.com/media/WUlp
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-### ✍️ Blog Posts : 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
