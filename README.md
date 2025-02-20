@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=An0nX&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://count.getloli.com/@an0nx?name=an0nx&theme=miku&padding=3&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="Profile Views">
 </p>
 
 ---
