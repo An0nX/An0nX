@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/XQiSjsnR2g8AAAAd/rem-re-zero.gif" alt="GIF" width="500">
+  <img src="rem-re-zero.gif" alt="GIF" width="500">
 </div>
 
 <p align="center">
