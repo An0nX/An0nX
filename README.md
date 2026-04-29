@@ -8,49 +8,49 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Привет, я An0nX!
+  Hi, I'm An0nX!
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=250&lines=Backend-разработчик;Malware+Analyst;Penetration+Testing;OSINT+Researcher;Linux+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=250&lines=Backend+Developer;Malware+Analyst;Penetration+Testing;OSINT+Researcher;Linux+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💫 Обо мне
+### 💫 About Me
 
-> Backend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, создаю производительные API и автоматизированные решения для **Telegram** и **VK**.
+> Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, I create high-performance APIs and automated solutions for **Telegram** and **VK**.
 
-В свободное время погружаюсь в мир кибербезопасности: анализирую вредоносное ПО, исследую уязвимости, занимаюсь OSINT и настраиваю защищённую инфраструктуру.
+In my free time, I dive into the world of cybersecurity: analyzing malware, researching vulnerabilities, doing OSINT, and configuring secure infrastructure.
 
 ---
 
-### 🚀 Сферы интересов
+### 🚀 Areas of Interest
 
 <table>
 <tr>
 <td width="50%">
 
-🏗️ **Бэкенд-архитектура**
-> Проектирование масштабируемых и отказоустойчивых сервисов
+🏗️ **Backend Architecture**
+> Designing scalable and fault-tolerant services
 
 🦠 **Malware Analysis**
-> Анализ стиллеров, RAT, шифровальщиков, руткитов и буткитов
+> Analysis of stealers, RATs, ransomware, rootkits, and bootkits
 
 🔓 **Penetration Testing**
-> Web, WiFi, Bluetooth, SSH, ADB — от разведки до эксплуатации
+> Web, WiFi, Bluetooth, SSH, ADB — from reconnaissance to exploitation
 
 </td>
 <td width="50%">
 
 🕵️ **OSINT**
-> Поиск людей, анализ утечек и социальных сетей
+> Searching for people, analyzing leaks and social networks
 
 🛡️ **Defensive Security**
-> IDS/IPS, анализ поведения антивирусов, обход детекта
+> IDS/IPS, antivirus behavior analysis, detection bypass
 
 🐧 **Linux & Dotfiles**
-> Arch Linux + Hyprland, кастомизация рабочего окружения
+> Arch Linux + Hyprland, desktop environment customization
 
 </td>
 </tr>
@@ -58,10 +58,10 @@
 
 ---
 
-### 🛠️ Стек технологий
+### 🛠️ Technology Stack
 
 <details open>
-<summary><b>🐍 Backend & Языки</b></summary>
+<summary><b>🐍 Backend & Languages</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -78,7 +78,7 @@
 </details>
 
 <details open>
-<summary><b>🗃️ Базы данных & Кэширование</b></summary>
+<summary><b>🗃️ Databases & Caching</b></summary>
 <br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -91,7 +91,7 @@
 </details>
 
 <details open>
-<summary><b>⚙️ DevOps & Инфраструктура</b></summary>
+<summary><b>⚙️ DevOps & Infrastructure</b></summary>
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -137,9 +137,9 @@
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Hybrid Analysis](https://img.shields.io/badge/Hybrid%20Analysis-1A1A2E?style=for-the-badge)
 
-**Анализировал:** `Stealers` `Clippers` `Ransomware` `RATs` `Loaders` `Rootkits` `Bootkits`
+**Analyzed:** `Stealers` `Clippers` `Ransomware` `RATs` `Loaders` `Rootkits` `Bootkits`
 
-**Форматы:** `EXE` `MSI` `PDF` `DOC` `BAT` `SH` `Python (PyInstaller, Nuitka)`
+**Formats:** `EXE` `MSI` `PDF` `DOC` `BAT` `SH` `Python (PyInstaller, Nuitka)`
 
 </details>
 
@@ -151,7 +151,7 @@
 ![Maigret](https://img.shields.io/badge/Maigret-2E8B57?style=for-the-badge)
 ![Holehe](https://img.shields.io/badge/Holehe-4169E1?style=for-the-badge)
 
-**Направления:** `Поиск людей` `Анализ утечек` `Социальные сети` `Leaked Databases`
+**Directions:** `People Search` `Leak Analysis` `Social Networks` `Leaked Databases`
 
 </details>
 
@@ -162,24 +162,24 @@
 ![CrowdSec](https://img.shields.io/badge/CrowdSec-5A67D8?style=for-the-badge&logo=crowdsec&logoColor=white)
 ![Windows Defender](https://img.shields.io/badge/Windows%20Defender-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**Знания:** `Статический анализ AV` `Динамический анализ AV` `Обход детекта` `IDS/IPS`
+**Knowledge:** `Static AV Analysis` `Dynamic AV Analysis` `Detection Bypass` `IDS/IPS`
 
 </details>
 
 <details open>
-<summary><b>🤖 ML & Нейросети</b></summary>
+<summary><b>🤖 ML & Neural Networks</b></summary>
 <br>
 
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-**Опыт:** `YOLO v6/v8/v11/v12` `RAG (Elasticsearch + ChromaDB)` `LLM API`
+**Experience:** `YOLO v6/v8/v11/v12` `RAG (Elasticsearch + ChromaDB)` `LLM API`
 
 </details>
 
 <details open>
-<summary><b>🖥️ Операционные системы</b></summary>
+<summary><b>🖥️ Operating Systems</b></summary>
 <br>
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
@@ -223,7 +223,7 @@
 
 ---
 
-### 📫 Как со мной связаться
+### 📫 How to Contact Me
 
 <p align="center">
   <a href="https://t.me/whynothacked">
@@ -232,7 +232,7 @@
 </p>
 
 > [!IMPORTANT]
-> 💡 Я предпочитаю получать одно сообщение, которое четко передает всю суть вашего вопроса или предложения. Пожалуйста, не начинайте диалог с "Привет" — сразу переходите к делу. Это экономит наше общее время.
+> 💡 I prefer to receive one message that clearly conveys the full essence of your question or proposal. Please do not start the conversation with "Hi" — get straight to the point. This saves both of us time.
 
 ---
 
